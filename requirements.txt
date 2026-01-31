@@ -32,6 +32,7 @@ tqdm>=4.62.0
 
 # Optional ML libraries
 hmmlearn>=0.3.3
-
+psutil
+ijson
 # PyTorch with CUDA support installation
 --extra-index-url https://download.pytorch.org/whl/cu121 
